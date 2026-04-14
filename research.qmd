@@ -1,0 +1,117 @@
+---
+title: "Research"
+---
+
+# Research
+
+The list below follows a research-first structure for an academic job-market website: peer-reviewed journal articles, peer-reviewed conference proceedings, work under review and working papers, book chapters, and monographs.
+
+## Peer-Reviewed Journal Articles
+
+### VHB A+
+
+Isaak, A., Istipliler, B., Bort, S., & Woywode, M. (forthcoming). *Regulation, corruption and decentralized autonomous organizations: Insights from Bitcoin trading and platform founding between 2011 and 2023*. *Organization Science*.
+
+### VHB B
+
+Lobo, R., Pigatto, M., Denes, D., & Isaak, A. (n.d.). *The role of intermediaries in sociotechnical transitions: A systematic framework towards sustainability management*. *Business Strategy and the Environment*, 1–21. https://doi.org/10.1002/bse.4237
+
+Dinh, J., Yahyaoui, Y., & Isaak, A. (2024). *Investing for good – uncovering crowd investors’ motivations to participate in sustainability-oriented crowdlending*. *Technological Forecasting and Social Change, 207*, Article 123584, 1–15.
+
+Dinh, J., Wehner, M., & Isaak, A. (2024). *Sustainability-oriented crowdfunding: An integrative literature review*. *Journal of Cleaner Production, 446*, Article 141579.
+
+Theissen, M., Lutz, E., & Isaak, A. (2024). *Family corporate venture capital: Syndicated investments from the perspective of socioemotional wealth and information asymmetry*. *Journal of Small Business Management* (ToFE Special Issue), 1–38.
+
+Ahrens, J.-P., Istipliler, B., Bort, S., & Isaak, A. (2023). *How successor pre-succession firm experience affects post-succession performance in family firms*. *Journal of Business Research, 167*, Article 114179.
+
+Neuhaus, J., Bostandzic, D., & Isaak, A. (2021). *Million dollar personality: A systematic literature review of personality in crowdfunding*. *Management Review Quarterly, 72*, 309–345.
+
+Schwieren, C., Iida, Y., & Isaak, A. (2022). *Reaching agreement on contribution behavior in different cultures – a public goods game with representatives in Japan and Germany*. *Journal of Behavioral and Experimental Economics, 99*, Article 101894.
+
+### VHB C
+
+Neuhaus, J., Bostandzic, D., & Isaak, A. (2024). *When personality pays: Observer rating of personality and financial success of equity crowdfunded startups*. *Venture Capital, 26*(1), 1–31.
+
+### Peer-Reviewed Journals Not Listed in VHB
+
+Gruba, M., Denes, D., Lobo, R., & Isaak, A. (2022). *Circular economy initiatives: Strategic implications, resource management, and entrepreneurial innovation in a Brazilian craft beer ecosystem during the COVID era*. *Sustainability, 14*(19).
+
+## Peer-Reviewed Conference Proceedings
+
+Zaggl, M., Steininger, D., & Isaak, A. (2025). *Motivation by status vs reputation for voluntary contributions in online knowledge exchange communities*. In *Proceedings of the European Conference on Information Systems (ECIS 2025)*.
+
+Koster, S., & Isaak, A. (2023). *Giving neurotic entrepreneurs money to save the world? An analysis of U.S. equity crowdfunding projects*. In *Proceedings of the European Conference on Information Systems (ECIS 2023)*.
+
+Bort, S., Woywode, M., & Isaak, A. (2021). *Institutional legitimacy and new market emergence: The case of Bitcoin trading*. In *Proceedings of the International Conference on Information Systems (ICIS 2021)*.
+
+Neuhaus, J., Bostandzic, D., & Isaak, A. (2021). *Implicit personality and Big Five traits in equity crowdfunding*. In *Proceedings of the International Conference on Information Systems (ICIS 2021)*.
+
+von Selasinsky, C., & Isaak, A. (2020). *It’s all in the (sub-)title? Expanding signal evaluation in crowdfunding research*. In *Proceedings of the European Conference on Information Systems (ECIS 2020), Research-in-Progress Papers* (Paper 56).
+
+Ahrens, J.-P., Istipliler, B., Steininger, D., & Isaak, A. (2019). *The Star Citizen phenomenon and the “ultimate dream management technique” in crowdfunding*. In *Proceedings of the International Conference on Information Systems (ICIS 2019)*.
+
+## Work Under Review / In Revision
+
+Koziol, K., Bort, S., & Isaak, A. (under review). *Investment risk disclosure: How platforms’ campaign ratings impact investors in equity crowdfunding*. Submitted to *Entrepreneurship Theory and Practice*.
+
+Ibrahimli, U., & Isaak, A. (under review). *When technology meets purpose: Artificial intelligence, sustainability and startup funding in Europe*. Submitted to *HICCS Proceedings*.
+
+Göttel, V., Fahrenhorst, H., & Isaak, A. (revise and resubmit). *Relationship marketing in the context of young enterprises: A systematic literature review and avenues for future research*. *Schmalenbach Journal of Business Research*.
+
+## Working Papers Near Submission
+
+Sperber, S., & Isaak, A. (working paper). *Illegal entrepreneurship and scalability*. Accepted for the 2025 Babson Entrepreneurship Research Conference and a *Research Policy* special issue workshop.
+
+Neuhaus, J., Bostandzic, D., & Isaak, A. (working paper). *In the eye of the beholder: Personality signals and equity crowdfunding success*. Best Paper Proceedings, Academy of Management.
+
+Ahrens, J.-P., Istipliler, B., Steininger, D., Rottler, M., & Isaak, A. (working paper). *Star Citizen: A social exchange theory perspective based on mixed methods*.
+
+Meyer, A., Weißenberger, B. E., & Isaak, A. (working paper). *Re-examining control systems and pathways for transformational management by integrating sustainability into corporate investment decisions*.
+
+Steininger, D., Veit, D., Woywode, M., & Isaak, A. (working paper). *Detecting deception in crowdfunding*.
+
+## Projects in Preparation
+
+Townsend, D., Rady, J., & Isaak, A. (project in preparation). *Sustainability and AI startups in Europe*.
+
+Lobo, R., & Isaak, A. (project in preparation). *Technology forecasting and corporate strategy*.
+
+Lobo, R., & Isaak, A. (project in preparation). *A case study on socio-cultural transitions and digital transformation in the Brazilian sustainable cosmetics industry*.
+
+## Book Chapters (Peer-Reviewed)
+
+Isaak, A., & Sauer, S. (forthcoming). Smart disclosure: How AI is reshaping sustainability reporting. In W. L. Filho (Ed.), *AI and the green transition: European perspectives on sustainable innovation* (World Sustainability Series). Springer Nature.
+
+Volkmann, C., & Isaak, A. (forthcoming). Sustainable entrepreneurship. In E. Stam (Ed.), *Handbook on sustainability management*. Wiley.
+
+Isaak, A. (forthcoming). Popular creativity techniques in innovation management. In B. Trusko & H. Croce (Eds.), *Global innovation science handbook*. McGraw Hill.
+
+Koster, S., Isaak, A., & Lutz, E. (2026). The role of gender and sustainability in equity crowdfunding through the lens of social role theory. In D. Cumming, H. Hoque, & E. Kashefi-Pour (Eds.), *Raising finance: From traditional to new forms of entrepreneurial finance*. World Scientific Europe Ltd. https://doi.org/10.1142/9781800617032_0010
+
+Isaak, A. (2025). Personality in crowdfunding. In D. Cumming & B. Hammer (Eds.), *The Palgrave encyclopedia of private equity*. Palgrave Macmillan, Cham. https://doi.org/10.1007/978-3-030-38738-9_215-1
+
+Isaak, A., Bort, S., & Woywode, M. (2021). The geoeconomics of cryptocurrencies. In M. Munoz & M. Frenkel (Eds.), *Economics of cryptocurrencies*. Routledge, Abingdon, UK. https://doi.org/10.4324/9780429200427-15
+
+Isaak, A. (2020). A resource-based perspective on refugee startup consulting: Lessons from German-speaking Europe. In M. L. Massimiliano, H. M., & M. L. (Eds.), *The Entrepreneurship SIG at the European Academy of Management: New horizons with strong traditions* (Vol. II). Information Age Publishing, Charlotte, NC. https://hdl.handle.net/10419/330216
+
+Leicht, R., Berwing, S., & Isaak, A. (2019). How precarious is migrant self-employment in Germany? An analysis of national microcensus data. In W. C. & J. Schippers (Eds.), *Self-employment as precarious work: A European perspective*. Edward Elgar, Cheltenham, UK. https://doi.org/10.4337/9781788115032.00018
+
+Isaak, A., & Liu, Y. (2016). Effectuation spectra in Chinese high-tech entrepreneurship: Domain-specific logic orientations and cross-border M&A. In S. Tarba & Y. Weber (Eds.), *M&A on technology, innovation, entrepreneurship and competitive strategy* (pp. 51–88). Emerald Publishing, Bingley, UK. https://doi.org/10.1108/S1479-067X20160000015006
+
+Isaak, A., Isaak, R., & Zybura, J. (2016). Replicating Silicon Valley: Talent and techno-management in a culture of serendipity. In Y. Liu (Ed.), *Entrepreneur and talent management from a global perspective – global returnees*. Edward Elgar, Cheltenham, UK. https://doi.org/10.4337/9781783479139.00022
+
+## Monographs
+
+Isaak, A. (2019). *Essays on trust in online peer-to-peer markets* [Cumulative dissertation, University of Mannheim]. https://madoc.bib.uni-mannheim.de/46907/
+
+Erlen, B., & Isaak, A. (2014). *Business Ratios (BWL Kennzahlen)*. Wiley, Weinheim, Germany & New York, USA.
+
+## Selected Recent Conference Presentations
+
+- 2026 Academy of Management Conference, Pennsylvania — *Technology Forecasting and Corporate Strategy* (poster session accepted)
+- 2026 Nordic Conference on Small Business Research, Bodø — *Technology Forecasting as a Strategic Tool: Implications for Readiness, Adoption and Sustainable Resource Management*
+- 2025 ZEW CODE, Mannheim — *Measuring Sustainable Impact with AI*
+- 2025 Open User Innovation Conference, Lisbon — *Measuring Sustainable Impact with AI*
+- 2025 Babson Entrepreneurship Research Conference — *Can Illegal Entrepreneurship Contribute to Fairness? The Case of the Shadow Library Sci-Hub on the Distribution of Scientific Knowledge*
+- 2025 Academy of Management Conference — *Investment Risk Disclosure: How Platforms’ (AI-based) Campaign Ratings Impact Investors in Equity Crowdfunding*
+- 2025 ECIS — *Status and Reputation as Motivation in Online Knowledge Exchange Communities*
