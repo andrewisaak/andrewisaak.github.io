@@ -2,8 +2,6 @@
 title: "Research"
 ---
 
-# Research
-
 The list below follows a research-first structure for an academic job-market website: peer-reviewed journal articles, peer-reviewed conference proceedings, work under review and working papers, book chapters, and monographs.
 
 ## Peer-Reviewed Journal Articles
