@@ -1,96 +1,5 @@
 [
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "I have taught in English and German across undergraduate, graduate, MBA, executive, and doctoral settings. My teaching combines research-informed content with application-oriented formats, including project-based learning, case work, entrepreneurial experimentation, and engagement with practice partners.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEntrepreneurship und Gründungsmanagement (Lecture, Bachelor), SoSe 2026\nFallstudien im Gründungsmanagement (Seminar, Bachelor), SoSe 2026, WiSe 2025\nPhD Seminar: Research Methods in Entrepreneurship and Innovation, WiSe 2026 (planned)\n\n\n\n\n\nCrowdfunding and AI in Theory and Practice (Seminar, MSc), WiSe 2025/2026\nCrowdfunding (Seminar, BSc), SoSe 2025\nGrundlagen Wissenschaftliches Arbeitens (Seminar, BSc), SoSe 2025\nDesign Thinking – Project Course (Seminar, BSc), SoSe 2025, WiSe 2024\nConsulting 1 – Project Course (Seminar, BSc), SoSe 2025, WiSe 2024\nConsulting 2 – Project Course (Seminar, BSc), SoSe 2025, WiSe 2024\nPhD Research Seminar (with Prof. Franke & Prof. Keinz), SoSe 2025, WiSe 2024\n\n\n\n\n\nEntrepreneurship and Innovation – Navigating Uncertainty with Entrepreneurial Mastery (MBA), SoSe 2026\nEntrepreneurship and Innovation: Navigating Uncertainty with Entrepreneurial Mastery (MBA), SoSe 2025\nEntrepreneurship and Innovation (MBA), SoSe 2024\nEntrepreneurship and Innovation – Theoretical Foundation and Practical Approaches (MBA), SoSe 2023\nDigital Crowd Management (Master), SoSe 2022\nBusiness Model Design (Bachelor), SoSe 2018\nResearch Seminar: Topics in Entrepreneurship (Master), SoSe 2018, WiSe 2017, SoSe 2015\nAdvanced Entrepreneurship (Master), SoSe 2017\nCreativity and Entrepreneurship in Practice (Master), WiSe 2016\nIntroduction to Entrepreneurship (Master), WiSe 2016\n\n\n\n\n\nAI-Driven Management of Sustainable Business (MSc / Programme Grande École), WiSe 2025\n\n\n\n\n\nDigital Entrepreneurship (MSc), WiSe 2023\n\n\n\n\n\nSolBridge International School of Business: Crowdfunding and Entrepreneurship; People and Organization / Leadership; Managing Digital Firms; Replicating Silicon Valley\nUniversity of Passau: Crowdfunding und Sustainability\nCentre International de Formation Européenne (CiFE): supervision and evaluation of master’s theses\nJönköping International School of Business: Thesis Seminar (MSc)\nBeijing Foreign Studies University: Innovation in Northeast Asia (Master)\n\n\n\n\n\nMy teaching is centered on entrepreneurship, innovation, digital transformation, entrepreneurial finance, sustainability, and AI. I place particular emphasis on project-based learning, transparent assessment, accessibility, and the integration of research methods and empirical evidence into class discussion. Across settings, I aim to prepare students not only for exams or final theses, but also for analytical and entrepreneurial decision-making in uncertain environments."
-  },
-  {
-    "objectID": "teaching.html#selected-courses",
-    "href": "teaching.html#selected-courses",
-    "title": "Teaching",
-    "section": "",
-    "text": "Entrepreneurship und Gründungsmanagement (Lecture, Bachelor), SoSe 2026\nFallstudien im Gründungsmanagement (Seminar, Bachelor), SoSe 2026, WiSe 2025\nPhD Seminar: Research Methods in Entrepreneurship and Innovation, WiSe 2026 (planned)\n\n\n\n\n\nCrowdfunding and AI in Theory and Practice (Seminar, MSc), WiSe 2025/2026\nCrowdfunding (Seminar, BSc), SoSe 2025\nGrundlagen Wissenschaftliches Arbeitens (Seminar, BSc), SoSe 2025\nDesign Thinking – Project Course (Seminar, BSc), SoSe 2025, WiSe 2024\nConsulting 1 – Project Course (Seminar, BSc), SoSe 2025, WiSe 2024\nConsulting 2 – Project Course (Seminar, BSc), SoSe 2025, WiSe 2024\nPhD Research Seminar (with Prof. Franke & Prof. Keinz), SoSe 2025, WiSe 2024\n\n\n\n\n\nEntrepreneurship and Innovation – Navigating Uncertainty with Entrepreneurial Mastery (MBA), SoSe 2026\nEntrepreneurship and Innovation: Navigating Uncertainty with Entrepreneurial Mastery (MBA), SoSe 2025\nEntrepreneurship and Innovation (MBA), SoSe 2024\nEntrepreneurship and Innovation – Theoretical Foundation and Practical Approaches (MBA), SoSe 2023\nDigital Crowd Management (Master), SoSe 2022\nBusiness Model Design (Bachelor), SoSe 2018\nResearch Seminar: Topics in Entrepreneurship (Master), SoSe 2018, WiSe 2017, SoSe 2015\nAdvanced Entrepreneurship (Master), SoSe 2017\nCreativity and Entrepreneurship in Practice (Master), WiSe 2016\nIntroduction to Entrepreneurship (Master), WiSe 2016\n\n\n\n\n\nAI-Driven Management of Sustainable Business (MSc / Programme Grande École), WiSe 2025\n\n\n\n\n\nDigital Entrepreneurship (MSc), WiSe 2023\n\n\n\n\n\nSolBridge International School of Business: Crowdfunding and Entrepreneurship; People and Organization / Leadership; Managing Digital Firms; Replicating Silicon Valley\nUniversity of Passau: Crowdfunding und Sustainability\nCentre International de Formation Européenne (CiFE): supervision and evaluation of master’s theses\nJönköping International School of Business: Thesis Seminar (MSc)\nBeijing Foreign Studies University: Innovation in Northeast Asia (Master)"
-  },
-  {
-    "objectID": "teaching.html#teaching-profile",
-    "href": "teaching.html#teaching-profile",
-    "title": "Teaching",
-    "section": "",
-    "text": "My teaching is centered on entrepreneurship, innovation, digital transformation, entrepreneurial finance, sustainability, and AI. I place particular emphasis on project-based learning, transparent assessment, accessibility, and the integration of research methods and empirical evidence into class discussion. Across settings, I aim to prepare students not only for exams or final theses, but also for analytical and entrepreneurial decision-making in uncertain environments."
-  },
-  {
-    "objectID": "README_DEPLOY.html",
-    "href": "README_DEPLOY.html",
-    "title": "Andrew Isaak website package",
-    "section": "",
-    "text": "This is a Quarto website package prepared for GitHub Pages.\n\n\n\nUpload all files in this folder to your GitHub repository andrewisaak.github.io\nInstall Quarto on your computer\nIn the website folder, run:\nquarto render\nCommit and push the generated docs/ folder\nIn GitHub:\n\nSettings\nPages\nSource: Deploy from branch\nBranch: main\nFolder: /docs\n\n\n\n\n\n\nThe visuals in images/ are clean placeholders so the site has a consistent visual structure immediately.\nIf you want to replace them with official institutional logos later, use the same filenames.\nAdd your CV PDF into the files/ folder and update links if needed."
-  },
-  {
-    "objectID": "README_DEPLOY.html#quick-start",
-    "href": "README_DEPLOY.html#quick-start",
-    "title": "Andrew Isaak website package",
-    "section": "",
-    "text": "Upload all files in this folder to your GitHub repository andrewisaak.github.io\nInstall Quarto on your computer\nIn the website folder, run:\nquarto render\nCommit and push the generated docs/ folder\nIn GitHub:\n\nSettings\nPages\nSource: Deploy from branch\nBranch: main\nFolder: /docs"
-  },
-  {
-    "objectID": "README_DEPLOY.html#notes",
-    "href": "README_DEPLOY.html#notes",
-    "title": "Andrew Isaak website package",
-    "section": "",
-    "text": "The visuals in images/ are clean placeholders so the site has a consistent visual structure immediately.\nIf you want to replace them with official institutional logos later, use the same filenames.\nAdd your CV PDF into the files/ folder and update links if needed."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Andrew Isaak",
-    "section": "",
-    "text": "Assistant Professor\nUniversity of Wuppertal\nVisiting Professor of Business (2025–2026)\nEM Strasbourg Business School\n\n\n\n\nI am an academic researcher in entrepreneurship, innovation, and sustainable business, with a particular interest in digital entrepreneurship, artificial intelligence, entrepreneurial finance, and sustainability transitions. My work combines theory-driven empirical research with strong practical relevance.\nMy current main affiliation is with the University of Wuppertal. Previously, I held a recent appointment at WU Vienna and continued teaching there through March while also supervising bachelor’s and master’s theses. I have also taught at Mannheim Business School and served as a Visiting Scholar at the University of California, Berkeley.\n\n\n\nIsaak, A., Istipliler, B., Bort, S., & Woywode, M.\nRegulation, Corruption and Decentralized Autonomous Organizations: Insights from Bitcoin Trading and Platform Founding between 2011 and 2023.\nOrganization Science (forthcoming; ABS 4*, VHB A+)\nPublished article page\n\n\n\n\n∼ €48.8k Fit for Funding Fellowship (VHB & Dr. Werner Jackstädt Foundation) for a project on AI and sustainability\nResearch Award, WU Vienna (2025)\nPhD (Dr. rer. pol., magna cum laude), University of Mannheim\nVisiting Scholar, University of California, Berkeley\nTeaching experience in English and German\nInternational teaching experience across Germany, Austria, France, South Korea, Sweden, China, and the UK\nResearch and reviewing activity spanning entrepreneurship, innovation, sustainability, and information systems\n\n\n\n\n\nDigital Entrepreneurship\nArtificial Intelligence and Organizations\nSustainable Innovation and Circular Economy\nEntrepreneurial Finance and Crowdfunding\nRegulation and Legitimacy in New Digital Markets\n\n\n\n\nEmail: isaak@wiwi.uni-wuppertal.de\nORCID: 0000-0001-5822-4355\nResearch · Teaching · German profile"
-  },
-  {
-    "objectID": "index.html#research",
-    "href": "index.html#research",
-    "title": "Andrew Isaak",
-    "section": "",
-    "text": "I am an academic researcher in entrepreneurship, innovation, and sustainable business, with a particular interest in digital entrepreneurship, artificial intelligence, entrepreneurial finance, and sustainability transitions. My work combines theory-driven empirical research with strong practical relevance.\nMy current main affiliation is with the University of Wuppertal. Previously, I held a recent appointment at WU Vienna and continued teaching there through March while also supervising bachelor’s and master’s theses. I have also taught at Mannheim Business School and served as a Visiting Scholar at the University of California, Berkeley."
-  },
-  {
-    "objectID": "index.html#job-market-paper",
-    "href": "index.html#job-market-paper",
-    "title": "Andrew Isaak",
-    "section": "",
-    "text": "Isaak, A., Istipliler, B., Bort, S., & Woywode, M.\nRegulation, Corruption and Decentralized Autonomous Organizations: Insights from Bitcoin Trading and Platform Founding between 2011 and 2023.\nOrganization Science (forthcoming; ABS 4*, VHB A+)\nPublished article page"
-  },
-  {
-    "objectID": "index.html#selected-highlights",
-    "href": "index.html#selected-highlights",
-    "title": "Andrew Isaak",
-    "section": "",
-    "text": "∼ €48.8k Fit for Funding Fellowship (VHB & Dr. Werner Jackstädt Foundation) for a project on AI and sustainability\nResearch Award, WU Vienna (2025)\nPhD (Dr. rer. pol., magna cum laude), University of Mannheim\nVisiting Scholar, University of California, Berkeley\nTeaching experience in English and German\nInternational teaching experience across Germany, Austria, France, South Korea, Sweden, China, and the UK\nResearch and reviewing activity spanning entrepreneurship, innovation, sustainability, and information systems"
-  },
-  {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
-    "title": "Andrew Isaak",
-    "section": "",
-    "text": "Digital Entrepreneurship\nArtificial Intelligence and Organizations\nSustainable Innovation and Circular Economy\nEntrepreneurial Finance and Crowdfunding\nRegulation and Legitimacy in New Digital Markets"
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Andrew Isaak",
-    "section": "",
-    "text": "Email: isaak@wiwi.uni-wuppertal.de\nORCID: 0000-0001-5822-4355\nResearch · Teaching · German profile"
-  },
-  {
-    "objectID": "index_de.html",
-    "href": "index_de.html",
-    "title": "Andrew Isaak – Deutsch",
-    "section": "",
-    "text": "Andrew Isaak\nIch bin (Senior) Postdoctoral Researcher & Lecturer an der Bergischen Universität Wuppertal (international äquivalent zu Assistant Professor).\nMeine Forschung liegt an der Schnittstelle von Entrepreneurship, Innovation, Digitalisierung, nachhaltigen Geschäftsmodellen und Entrepreneurial Finance. Inhaltlich arbeite ich insbesondere zu digitalem Entrepreneurship, künstlicher Intelligenz, Crowdfunding, nachhaltiger Innovation und der Entstehung neuer digitaler Märkte.\nMeine Publikationen erscheinen in internationalen Fachzeitschriften und Konferenzformaten, darunter Organization Science. Darüber hinaus verfüge ich über internationale Lehr- und Forschungserfahrung in Deutschland, Österreich, Frankreich, Südkorea, Schweden, China, Großbritannien und den USA.\nZur englischen Version"
-  },
-  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
@@ -152,5 +61,96 @@
     "title": "Research",
     "section": "",
     "text": "2026 Academy of Management Conference, Pennsylvania — Technology Forecasting and Corporate Strategy (poster session accepted)\n2026 Nordic Conference on Small Business Research, Bodø — Technology Forecasting as a Strategic Tool: Implications for Readiness, Adoption and Sustainable Resource Management\n2025 ZEW CODE, Mannheim — Measuring Sustainable Impact with AI\n2025 Open User Innovation Conference, Lisbon — Measuring Sustainable Impact with AI\n2025 Babson Entrepreneurship Research Conference — Can Illegal Entrepreneurship Contribute to Fairness? The Case of the Shadow Library Sci-Hub on the Distribution of Scientific Knowledge\n2025 Academy of Management Conference — Investment Risk Disclosure: How Platforms’ (AI-based) Campaign Ratings Impact Investors in Equity Crowdfunding\n2025 ECIS — Status and Reputation as Motivation in Online Knowledge Exchange Communities"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Andrew Jay Isaak",
+    "section": "",
+    "text": "Assistant Professor\nUniversity of Wuppertal\nVisiting Professor of Business (2025–2026)\nEM Strasbourg Business School\n\n\n\n\nI conduct academic both quantitative and qualitative research in entrepreneurship, innovation, and sustainable business, with a particular interest in digital entrepreneurship, artificial intelligence, entrepreneurial finance, as well as sustainability transitions. My work combines theory-driven empirical research with strong practical relevance. Among others, I study how new digital markets (e.g. Cryptocurrencies, ICOs) and entrepreneurial ecosystems (e.g., AI Startups) emerge in different institional environments and regulatory regimes. I am also interested in equity crowdfunding and use text analytic methods and machine learning to examine how campaign narratives shape funding outcomes for sustainability-oriented entrepreneurs.\nMy current main affiliation is with the University of Wuppertal as a (senior) postdoctoral researcher. At Wuppertal, I hold lectures and seminars such as entrepreneurship and growth and case studies in entrepreneurship (e.g., Car- & Ride-sharing, Space Tourism, EVs, and others). Previously, I held appointments at the Vienna University of Economics and Business (WU Vienna/Austria), the University of Düsseldorf (HHU/Germany), Solbridge International School of Business (Woosong University/South Korea) and at U.C. Berkeley (Visitng Scholar) as part of my PhD in Digital Entrepreneurship at the University of Mannheim. Since my PhD I have maintained close connections to Mannheim in teaching and research and teach at Mannheim Business School’s MBA program and at EM Strasbourg Business School’s Bachelor and Master of Science programs in the semester breaks.\n\n\n\nIsaak, A., Istipliler, B., Bort, S., & Woywode, M.\nRegulation, Corruption and Decentralized Autonomous Organizations: Insights from Bitcoin Trading and Platform Founding between 2011 and 2023.\nOrganization Science36(6), 2210-2244*(ABS 4*, VHB A+*,Utd24)\nPublished article page\n\n\n\n\n∼ €48.8k Fit for Funding Fellowship (VHB & Dr. Werner Jackstädt Foundation) for a project on AI and sustainability\nBest Paper Award, WU Vienna (2026)\nResearch Award, WU Vienna (2025)\nPhD (Dr. rer. pol., magna cum laude), University of Mannheim\nVisiting Scholar, University of California, Berkeley\n\nTeaching experience in English and German at all levels (BSc, MSc, PhD and executive education)\nInternational teaching experience across Germany, Austria, France, South Korea, Sweden, China, and the UK\nResearch and reviewing activity spanning entrepreneurship, innovation, sustainability, and information systems\nAssociate Editor, International Journal of Innovation Science\nEditorial Review Board, Information Systems Journal *(ABS 3*, VHB A*)\n\n\n\n\n\nDigital Entrepreneurship\nArtificial Intelligence and Decentralized Organizations\nSustainable Innovation and Circular Economy\nEntrepreneurial Finance and Crowdfunding\nRegulation and Legitimacy in New Digital Markets\n\n\n\n\nEmail: isaak@wiwi.uni-wuppertal.de\nORCID: 0000-0001-5822-4355\nResearch · Teaching · German profile"
+  },
+  {
+    "objectID": "index.html#research",
+    "href": "index.html#research",
+    "title": "Andrew Jay Isaak",
+    "section": "",
+    "text": "I conduct academic both quantitative and qualitative research in entrepreneurship, innovation, and sustainable business, with a particular interest in digital entrepreneurship, artificial intelligence, entrepreneurial finance, as well as sustainability transitions. My work combines theory-driven empirical research with strong practical relevance. Among others, I study how new digital markets (e.g. Cryptocurrencies, ICOs) and entrepreneurial ecosystems (e.g., AI Startups) emerge in different institional environments and regulatory regimes. I am also interested in equity crowdfunding and use text analytic methods and machine learning to examine how campaign narratives shape funding outcomes for sustainability-oriented entrepreneurs.\nMy current main affiliation is with the University of Wuppertal as a (senior) postdoctoral researcher. At Wuppertal, I hold lectures and seminars such as entrepreneurship and growth and case studies in entrepreneurship (e.g., Car- & Ride-sharing, Space Tourism, EVs, and others). Previously, I held appointments at the Vienna University of Economics and Business (WU Vienna/Austria), the University of Düsseldorf (HHU/Germany), Solbridge International School of Business (Woosong University/South Korea) and at U.C. Berkeley (Visitng Scholar) as part of my PhD in Digital Entrepreneurship at the University of Mannheim. Since my PhD I have maintained close connections to Mannheim in teaching and research and teach at Mannheim Business School’s MBA program and at EM Strasbourg Business School’s Bachelor and Master of Science programs in the semester breaks."
+  },
+  {
+    "objectID": "index.html#job-market-paper-based-on-the-last-paper-of-my-cumulative-disseration",
+    "href": "index.html#job-market-paper-based-on-the-last-paper-of-my-cumulative-disseration",
+    "title": "Andrew Jay Isaak",
+    "section": "",
+    "text": "Isaak, A., Istipliler, B., Bort, S., & Woywode, M.\nRegulation, Corruption and Decentralized Autonomous Organizations: Insights from Bitcoin Trading and Platform Founding between 2011 and 2023.\nOrganization Science36(6), 2210-2244*(ABS 4*, VHB A+*,Utd24)\nPublished article page"
+  },
+  {
+    "objectID": "index.html#selected-highlights",
+    "href": "index.html#selected-highlights",
+    "title": "Andrew Jay Isaak",
+    "section": "",
+    "text": "∼ €48.8k Fit for Funding Fellowship (VHB & Dr. Werner Jackstädt Foundation) for a project on AI and sustainability\nBest Paper Award, WU Vienna (2026)\nResearch Award, WU Vienna (2025)\nPhD (Dr. rer. pol., magna cum laude), University of Mannheim\nVisiting Scholar, University of California, Berkeley\n\nTeaching experience in English and German at all levels (BSc, MSc, PhD and executive education)\nInternational teaching experience across Germany, Austria, France, South Korea, Sweden, China, and the UK\nResearch and reviewing activity spanning entrepreneurship, innovation, sustainability, and information systems\nAssociate Editor, International Journal of Innovation Science\nEditorial Review Board, Information Systems Journal *(ABS 3*, VHB A*)"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Andrew Jay Isaak",
+    "section": "",
+    "text": "Digital Entrepreneurship\nArtificial Intelligence and Decentralized Organizations\nSustainable Innovation and Circular Economy\nEntrepreneurial Finance and Crowdfunding\nRegulation and Legitimacy in New Digital Markets"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Andrew Jay Isaak",
+    "section": "",
+    "text": "Email: isaak@wiwi.uni-wuppertal.de\nORCID: 0000-0001-5822-4355\nResearch · Teaching · German profile"
+  },
+  {
+    "objectID": "index_de.html",
+    "href": "index_de.html",
+    "title": "Andrew Isaak – Deutsch",
+    "section": "",
+    "text": "Andrew Isaak\nIch bin (Senior) Postdoctoral Researcher & Lecturer an der Bergischen Universität Wuppertal (international äquivalent zu Assistant Professor).\nMeine Forschung liegt an der Schnittstelle von Entrepreneurship, Innovation, Digitalisierung, nachhaltigen Geschäftsmodellen und Entrepreneurial Finance. Inhaltlich arbeite ich insbesondere zu digitalem Entrepreneurship, künstlicher Intelligenz, Crowdfunding, nachhaltiger Innovation und der Entstehung neuer digitaler Märkte.\nMeine Publikationen erscheinen in internationalen Fachzeitschriften und Konferenzformaten, darunter Organization Science. Darüber hinaus verfüge ich über internationale Lehr- und Forschungserfahrung in Deutschland, Österreich, Frankreich, Südkorea, Schweden, China, Großbritannien und den USA.\nZur englischen Version"
+  },
+  {
+    "objectID": "README_DEPLOY.html",
+    "href": "README_DEPLOY.html",
+    "title": "Andrew Isaak website package",
+    "section": "",
+    "text": "This is a Quarto website package prepared for GitHub Pages.\n\n\n\nUpload all files in this folder to your GitHub repository andrewisaak.github.io\nInstall Quarto on your computer\nIn the website folder, run:\nquarto render\nCommit and push the generated docs/ folder\nIn GitHub:\n\nSettings\nPages\nSource: Deploy from branch\nBranch: main\nFolder: /docs\n\n\n\n\n\n\nThe visuals in images/ are clean placeholders so the site has a consistent visual structure immediately.\nIf you want to replace them with official institutional logos later, use the same filenames.\nAdd your CV PDF into the files/ folder and update links if needed."
+  },
+  {
+    "objectID": "README_DEPLOY.html#quick-start",
+    "href": "README_DEPLOY.html#quick-start",
+    "title": "Andrew Isaak website package",
+    "section": "",
+    "text": "Upload all files in this folder to your GitHub repository andrewisaak.github.io\nInstall Quarto on your computer\nIn the website folder, run:\nquarto render\nCommit and push the generated docs/ folder\nIn GitHub:\n\nSettings\nPages\nSource: Deploy from branch\nBranch: main\nFolder: /docs"
+  },
+  {
+    "objectID": "README_DEPLOY.html#notes",
+    "href": "README_DEPLOY.html#notes",
+    "title": "Andrew Isaak website package",
+    "section": "",
+    "text": "The visuals in images/ are clean placeholders so the site has a consistent visual structure immediately.\nIf you want to replace them with official institutional logos later, use the same filenames.\nAdd your CV PDF into the files/ folder and update links if needed."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "I have taught in English and German across undergraduate, graduate, MBA, executive, and doctoral settings. My teaching combines research-informed content with application-oriented formats, including project-based learning, case work, entrepreneurial experimentation, and engagement with practice partners.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEntrepreneurship und Gründungsmanagement (Lecture, Bachelor), SoSe 2026\nFallstudien im Gründungsmanagement (Seminar, Bachelor), SoSe 2026, WiSe 2025\nPhD Seminar: Research Methods in Entrepreneurship and Innovation, WiSe 2026 (planned)\n\n\n\n\n\nCrowdfunding and AI in Theory and Practice (Seminar, MSc), WiSe 2025/2026\nCrowdfunding (Seminar, BSc), SoSe 2025\nGrundlagen Wissenschaftliches Arbeitens (Seminar, BSc), SoSe 2025\nDesign Thinking – Project Course (Seminar, BSc), SoSe 2025, WiSe 2024\nConsulting 1 – Project Course (Seminar, BSc), SoSe 2025, WiSe 2024\nConsulting 2 – Project Course (Seminar, BSc), SoSe 2025, WiSe 2024\nPhD Research Seminar (with Prof. Franke & Prof. Keinz), SoSe 2025, WiSe 2024\n\n\n\n\n\nEntrepreneurship and Innovation – Navigating Uncertainty with Entrepreneurial Mastery (MBA), SoSe 2026\nEntrepreneurship and Innovation: Navigating Uncertainty with Entrepreneurial Mastery (MBA), SoSe 2025\nEntrepreneurship and Innovation (MBA), SoSe 2024\nEntrepreneurship and Innovation – Theoretical Foundation and Practical Approaches (MBA), SoSe 2023\nDigital Crowd Management (Master), SoSe 2022\nBusiness Model Design (Bachelor), SoSe 2018\nResearch Seminar: Topics in Entrepreneurship (Master), SoSe 2018, WiSe 2017, SoSe 2015\nAdvanced Entrepreneurship (Master), SoSe 2017\nCreativity and Entrepreneurship in Practice (Master), WiSe 2016\nIntroduction to Entrepreneurship (Master), WiSe 2016\n\n\n\n\n\nAI-Driven Management of Sustainable Business (MSc / Programme Grande École), WiSe 2025\n\n\n\n\n\nDigital Entrepreneurship (MSc), WiSe 2023\n\n\n\n\n\nSolBridge International School of Business: Crowdfunding and Entrepreneurship; People and Organization / Leadership; Managing Digital Firms; Replicating Silicon Valley\nUniversity of Passau: Crowdfunding und Sustainability\nCentre International de Formation Européenne (CiFE): supervision and evaluation of master’s theses\nJönköping International School of Business: Thesis Seminar (MSc)\nBeijing Foreign Studies University: Innovation in Northeast Asia (Master)\n\n\n\n\n\nMy teaching is centered on entrepreneurship, innovation, digital transformation, entrepreneurial finance, sustainability, and AI. I place particular emphasis on project-based learning, transparent assessment, accessibility, and the integration of research methods and empirical evidence into class discussion. Across settings, I aim to prepare students not only for exams or final theses, but also for analytical and entrepreneurial decision-making in uncertain environments."
+  },
+  {
+    "objectID": "teaching.html#selected-courses",
+    "href": "teaching.html#selected-courses",
+    "title": "Teaching",
+    "section": "",
+    "text": "Entrepreneurship und Gründungsmanagement (Lecture, Bachelor), SoSe 2026\nFallstudien im Gründungsmanagement (Seminar, Bachelor), SoSe 2026, WiSe 2025\nPhD Seminar: Research Methods in Entrepreneurship and Innovation, WiSe 2026 (planned)\n\n\n\n\n\nCrowdfunding and AI in Theory and Practice (Seminar, MSc), WiSe 2025/2026\nCrowdfunding (Seminar, BSc), SoSe 2025\nGrundlagen Wissenschaftliches Arbeitens (Seminar, BSc), SoSe 2025\nDesign Thinking – Project Course (Seminar, BSc), SoSe 2025, WiSe 2024\nConsulting 1 – Project Course (Seminar, BSc), SoSe 2025, WiSe 2024\nConsulting 2 – Project Course (Seminar, BSc), SoSe 2025, WiSe 2024\nPhD Research Seminar (with Prof. Franke & Prof. Keinz), SoSe 2025, WiSe 2024\n\n\n\n\n\nEntrepreneurship and Innovation – Navigating Uncertainty with Entrepreneurial Mastery (MBA), SoSe 2026\nEntrepreneurship and Innovation: Navigating Uncertainty with Entrepreneurial Mastery (MBA), SoSe 2025\nEntrepreneurship and Innovation (MBA), SoSe 2024\nEntrepreneurship and Innovation – Theoretical Foundation and Practical Approaches (MBA), SoSe 2023\nDigital Crowd Management (Master), SoSe 2022\nBusiness Model Design (Bachelor), SoSe 2018\nResearch Seminar: Topics in Entrepreneurship (Master), SoSe 2018, WiSe 2017, SoSe 2015\nAdvanced Entrepreneurship (Master), SoSe 2017\nCreativity and Entrepreneurship in Practice (Master), WiSe 2016\nIntroduction to Entrepreneurship (Master), WiSe 2016\n\n\n\n\n\nAI-Driven Management of Sustainable Business (MSc / Programme Grande École), WiSe 2025\n\n\n\n\n\nDigital Entrepreneurship (MSc), WiSe 2023\n\n\n\n\n\nSolBridge International School of Business: Crowdfunding and Entrepreneurship; People and Organization / Leadership; Managing Digital Firms; Replicating Silicon Valley\nUniversity of Passau: Crowdfunding und Sustainability\nCentre International de Formation Européenne (CiFE): supervision and evaluation of master’s theses\nJönköping International School of Business: Thesis Seminar (MSc)\nBeijing Foreign Studies University: Innovation in Northeast Asia (Master)"
+  },
+  {
+    "objectID": "teaching.html#teaching-profile",
+    "href": "teaching.html#teaching-profile",
+    "title": "Teaching",
+    "section": "",
+    "text": "My teaching is centered on entrepreneurship, innovation, digital transformation, entrepreneurial finance, sustainability, and AI. I place particular emphasis on project-based learning, transparent assessment, accessibility, and the integration of research methods and empirical evidence into class discussion. Across settings, I aim to prepare students not only for exams or final theses, but also for analytical and entrepreneurial decision-making in uncertain environments."
   }
 ]
